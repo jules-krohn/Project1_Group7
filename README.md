@@ -5,6 +5,12 @@ test update
 
 Based on our data we were unable to prove the null hypothesis false. 
 
+Trout Data: 
+The P value is 2.0093484348496326e-10. From this value, since p <0.5, we reject the null hypothesis and can assume that the difference between samples is not random.  
+
+Walleye Data:
+The P value is 9.417384121123249e-07. Based on this value, since p<0.05 we reject the null hypothesis.
+
 
 
 
@@ -17,7 +23,8 @@ https://gis-midnr.opendata.arcgis.com/datasets/84626254386246518a43a7a6f1ea2049_
 
 
 
-Presentation cited
+Presentation cited: 
+
 In 2015, the commercial fishermen in the U.S. and Canadian waters of the Great Lakes brought in nearly 41 million pounds of fish with a value of $46 million.
 https://www.michiganseagrant.org/topics/fisheries-and-aquaculture/commercial-fishing/
 
