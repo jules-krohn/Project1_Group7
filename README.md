@@ -5,13 +5,18 @@ test update
 
 Based on our data we were unable to prove the null hypothesis false. 
 
+A Pearson's Correlation Coefficient was done on the stock data and catch data from Chippewa County. The result was undefined. There seems to be no correlation between the number of fish stocked and the number of fish caught. We believe there was not sufficient enought data in the DNR Creel catching database to find a large enough sample size. With a bigger sample set we may have been able to find a correlation, or proved that it wasn't related at all. 
+
+
+Are the catch numbers between the two counties from 2012 - 2022 meaningfully different?
+
 Trout Data: 
-The P value is 2.0093484348496326e-10. From this value, since p <0.5, we reject the null hypothesis and can assume that the difference between samples is not random.  
+The P value is 2.0093484348496326e-10. From this value, since p <0.5, we reject the null hypothesis. 
 
 Walleye Data:
 The P value is 9.417384121123249e-07. Based on this value, since p<0.05 we reject the null hypothesis.
 
-
+Based on this data we can assume that the difference between samples is not random
 
 
 Stocked data found at:
