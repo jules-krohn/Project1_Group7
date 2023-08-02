@@ -1,11 +1,8 @@
 # Project1_Group7
 
-Unknown project, first update
-test update
+We started this project with an intrest in ecological studies and data analytics. After finding the data bases for fish stocking and angeling, we came up with some question about how/if they might be correlated. Ater cleaning the data, narrowing our search to recent years and isolating specific fish we knew to be prominent, we took a look at one county stocked by the DNR and another county that was not. 
 
-Based on our data we were unable to prove the null hypothesis false. 
-
-A Pearson's Correlation Coefficient was done on the stock data and catch data from Chippewa County. The result was undefined. There seems to be no correlation between the number of fish stocked and the number of fish caught. We believe there was not sufficient enought data in the DNR Creel catching database to find a large enough sample size. With a bigger sample set we may have been able to find a correlation, or proved that it wasn't related at all. 
+As it turns out, we were unable to find conclusive results based on this data. A Pearson's Correlation Coefficient was done on the stock data and catch data from Chippewa County. The result was undefined. There seems to be no correlation between the number of fish stocked and the number of fish caught. We believe there was not sufficient enought data in the DNR Creel catching database to find a large enough sample size. With a bigger sample set we may have been able to find a correlation, or proved that it wasn't related at all. 
 
 
 Are the catch numbers between the two counties from 2012 - 2022 meaningfully different?
